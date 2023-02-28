@@ -83,7 +83,7 @@ header nav{
 }
 
 .banner_title{
-    font-family: SF Pro Display
+    font-family: SF Pro Display;
     font-weight: bold;
     text-shadow: 2px 2px 10px #000;
     font-size: 54px;
@@ -93,7 +93,7 @@ header nav{
 .about_us_title h1,
 .service_title h1,
 .orcamento_title h1{
-    font-family: SF Pro Display
+    font-family: SF Pro Displaygit;
     font-weight: bold;
     text-shadow: 2px 2px 10px #000;
     font-size: 40px;
@@ -119,12 +119,13 @@ header nav{
     color: #FFF;
     font-weight: bold;
     border: 2px solid #FFF;
-    border-radius: 5%;
+    border-radius: 5px;
     padding: 5px;
     font-size: 20px;
     margin-top: 20px;
     background-color: #25D366;
     overflow: hidden;
+    transition: 2s;
 }
 
 .banner_buttom:hover{
