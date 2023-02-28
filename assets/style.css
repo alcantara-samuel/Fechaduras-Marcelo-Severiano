@@ -325,6 +325,9 @@ footer span{
         width: auto;
         padding-right: 30px;
     }
+    .banner_buttom:hover{
+        font-size: 19git px;
+    }
     .about_us_desc{
         display: flex;
         flex-direction: column;
@@ -377,6 +380,9 @@ footer span{
         font-size: 15px;
         width: auto;
 
+    }
+    .banner_buttom:hover{
+        font-size: 17px;
     }
 
     .about_us_text{
