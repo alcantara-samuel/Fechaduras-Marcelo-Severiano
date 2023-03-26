@@ -129,7 +129,7 @@ header nav{
 }
 
 .banner_buttom:hover{
-    font-size: 22px;
+    opacity: 0.8;
 }
 
 .column{
